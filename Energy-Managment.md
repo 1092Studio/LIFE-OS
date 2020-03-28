@@ -9,12 +9,12 @@ An important metric to measure is the trend over the day and it can be measured 
 2. Exponential moving average - Weighing recent data with higher value to better capture change in trend, in either direction 
  
 24-Hour time blocks:
-00:00 - 04:00 : Sleep
-04:00 - 08:00 : Sleep
-08:00 - 12:00 : Q1
-12:00 - 16:00 : Q2
-16:00 - 20:00 : Q3
-20:00 - 24:00 : Q4
+1. 00:00 - 04:00 : Sleep
+2. 04:00 - 08:00 : Sleep
+3. 08:00 - 12:00 : Q1
+4. 12:00 - 16:00 : Q2
+5. 16:00 - 20:00 : Q3
+6. 20:00 - 24:00 : Q4
 
 Structuring the day into quarters is  analogous to an earnings report cadence. Further breakdown of the quarter into 4 sections is possible but I find that a 4 hour time-frame is most optimal. Also, there's something magical about starting a new cycle at 00:00 everyday; it feels like a true reset - we all need that!
 
