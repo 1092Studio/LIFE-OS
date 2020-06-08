@@ -5,7 +5,7 @@ Using Shortcuts, you can aggregate the duration of events in your daily calendar
 ![Part 1](https://i.imgur.com/vKgq0Rv.jpg)
 
 # Format the duration from seconds to minutes & aggregate
-![Part 2](https://i.imgur.com/vKgq0Rv.jpg)
+![Part 2](https://i.imgur.com/sPIMzlc.jpg)
 
 # Present as a Notification for the feel-good buzz that you can always find in Notifications - it's also timestamped!
 ![Output](https://i.imgur.com/ebVMDr6.jpg)
